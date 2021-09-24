@@ -50,6 +50,7 @@ coverage.xml
 
 # Data
 data/
+_data/
 *h5ad
 # Jupyter Notebook
 .ipynb_checkpoints
