@@ -10,7 +10,7 @@ Note that in most notebooks I specify relative paths that would need to be edite
 
 explanation of directories:
 
-preprocessing/ contains the snakemake workflow I used to integrate the data
+preprocessing/ contains the snakemake workflow I used to integrate the data, including the raw outputs of igblast
 
 metadata/ contains files used in analyses such as dissociation genes
 
